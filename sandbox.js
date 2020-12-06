@@ -14,7 +14,7 @@ console.log(user.name);
 // user.age = 35;
 console.log(user.age);
 
-console.log(user['location']);
+console.log(user['name']);
 user['name'] = 'chun-li';
 console.log(user['name']);
 
